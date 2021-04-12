@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #E28024;
+    border-radius: 50%;
+    text-align: center;
+}
+
+body {
+    background-color: #492E78;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.yo{
+    font-weight: 700;
+    padding-top: 5px;
+}
